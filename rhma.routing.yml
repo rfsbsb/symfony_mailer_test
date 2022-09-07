@@ -1,0 +1,7 @@
+rhma.mailer_test_from:
+  path: '/test-form'
+  defaults:
+    _title: 'Mailer test from'
+    _form: 'Drupal\rhma\Form\MailerTestFrom'
+  requirements:
+    _permission: 'access content'
